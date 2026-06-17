@@ -21,6 +21,9 @@ Relation between age and gender based on number of orders.
 Which Channel is contributing maximum to the sales?
 
 Highest selling category?
+Percentage of Total Orders delivered
+
+Dashboard Interaction<a href="https://github.com/msaadkama786/Sales-Dashboard-1/blob/main/Screenshot%20.png">Dashboard<a/>
 
 ## process
 Verify data for any missing values and anomalies, and sort out the same.
@@ -38,6 +41,4 @@ More than 90% of the products delivered
 ## conclusion
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
-Percentage of Total Orders delivered
 
-Dashboard Interaction
