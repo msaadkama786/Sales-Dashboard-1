@@ -2,7 +2,7 @@
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 ## Data Set
-<a href="https://github.com/msaadkama786/Sales-Dashboard-1/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Data Set</a>
+<a href="[https://github.com/msaadkama786/Sales-Dashboard-1/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx](https://github.com/msaadkama786/power-bi-sales-Dashboard/blob/main/Screenshort_Sales_dashboard_Powerbi.png)">Data Set</a>
 
 ## Questions (KPIs)
 
